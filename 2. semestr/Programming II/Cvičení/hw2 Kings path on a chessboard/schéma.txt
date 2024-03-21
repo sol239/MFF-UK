@@ -1,0 +1,9 @@
+﻿1) multi-line čtečka
+
+2) funkce, která vytvoří matici šachovnice
+
+3) funkce, která spočítá možné tahy
+
+4) fronta
+
+5) datová struktura set {}

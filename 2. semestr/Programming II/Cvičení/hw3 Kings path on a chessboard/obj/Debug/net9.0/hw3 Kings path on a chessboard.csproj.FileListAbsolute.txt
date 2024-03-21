@@ -1,0 +1,15 @@
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\bin\Debug\net9.0\hw3 Kings path on a chessboard.exe
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\bin\Debug\net9.0\sachovnice.txt
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\bin\Debug\net9.0\hw3 Kings path on a chessboard.deps.json
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\bin\Debug\net9.0\hw3 Kings path on a chessboard.runtimeconfig.json
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\bin\Debug\net9.0\hw3 Kings path on a chessboard.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\bin\Debug\net9.0\hw3 Kings path on a chessboard.pdb
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\hw3 Kings path on a chessboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\hw3 Kings path on a chessboard.AssemblyInfoInputs.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\hw3 Kings path on a chessboard.AssemblyInfo.cs
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\hw3 Kings path on a chessboard.csproj.CoreCompileInputs.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\hw3 Kings path on a chessboard.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\refint\hw3 Kings path on a chessboard.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\hw3 Kings path on a chessboard.pdb
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\hw3 Kings path on a chessboard.genruntimeconfig.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw3 Kings path on a chessboard\obj\Debug\net9.0\ref\hw3 Kings path on a chessboard.dll

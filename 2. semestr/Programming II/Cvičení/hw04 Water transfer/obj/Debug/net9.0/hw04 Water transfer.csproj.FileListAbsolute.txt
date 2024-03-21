@@ -1,0 +1,14 @@
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\bin\Debug\net9.0\hw04 Water transfer.exe
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\bin\Debug\net9.0\hw04 Water transfer.deps.json
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\bin\Debug\net9.0\hw04 Water transfer.runtimeconfig.json
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\bin\Debug\net9.0\hw04 Water transfer.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\bin\Debug\net9.0\hw04 Water transfer.pdb
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\hw04 Water transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\hw04 Water transfer.AssemblyInfoInputs.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\hw04 Water transfer.AssemblyInfo.cs
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\hw04 Water transfer.csproj.CoreCompileInputs.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\hw04 Water transfer.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\refint\hw04 Water transfer.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\hw04 Water transfer.pdb
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\hw04 Water transfer.genruntimeconfig.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw04 Water transfer\obj\Debug\net9.0\ref\hw04 Water transfer.dll

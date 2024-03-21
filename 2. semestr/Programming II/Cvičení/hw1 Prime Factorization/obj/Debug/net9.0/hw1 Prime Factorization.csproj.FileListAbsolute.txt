@@ -1,0 +1,14 @@
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\bin\Debug\net9.0\hw1 Prime Factorization.exe
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\bin\Debug\net9.0\hw1 Prime Factorization.deps.json
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\bin\Debug\net9.0\hw1 Prime Factorization.runtimeconfig.json
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\bin\Debug\net9.0\hw1 Prime Factorization.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\bin\Debug\net9.0\hw1 Prime Factorization.pdb
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\hw1 Prime Factorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\hw1 Prime Factorization.AssemblyInfoInputs.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\hw1 Prime Factorization.AssemblyInfo.cs
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\hw1 Prime Factorization.csproj.CoreCompileInputs.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\hw1 Prime Factorization.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\refint\hw1 Prime Factorization.dll
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\hw1 Prime Factorization.pdb
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\hw1 Prime Factorization.genruntimeconfig.cache
+C:\Users\david_pmv0zjd\RiderProjects\Programování 2\hw1 Prime Factorization\obj\Debug\net9.0\ref\hw1 Prime Factorization.dll
